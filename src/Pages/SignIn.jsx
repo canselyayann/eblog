@@ -74,6 +74,13 @@ function SignIn() {
           </div>
         </div>
       </section>
+       <footer className="eblog-footer-area footer-inner" id="footer">
+        <div className="eblog-footer-copyright-area">
+            <div className="copyright-content">
+                <p className="title">2024 © All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
     </div>
   )
 }
